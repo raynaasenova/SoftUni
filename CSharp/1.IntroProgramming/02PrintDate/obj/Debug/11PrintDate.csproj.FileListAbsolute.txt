@@ -1,0 +1,6 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02PrintDate\bin\Debug\02PrintDate.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02PrintDate\bin\Debug\02PrintDate.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02PrintDate\obj\Debug\02PrintDate.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02PrintDate\obj\Debug\02PrintDate.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\02PrintDate\obj\Debug\02PrintDate.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\02PrintDate\obj\Debug\02PrintDate.pdb

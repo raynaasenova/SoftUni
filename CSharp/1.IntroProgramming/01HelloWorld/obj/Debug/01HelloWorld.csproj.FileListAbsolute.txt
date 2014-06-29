@@ -1,0 +1,5 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\01HelloWorld\bin\Debug\01HelloWorld.exe.config
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\01HelloWorld\bin\Debug\01HelloWorld.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\01HelloWorld\bin\Debug\01HelloWorld.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\01HelloWorld\obj\Debug\01HelloWorld.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\01HelloWorld\obj\Debug\01HelloWorld.pdb

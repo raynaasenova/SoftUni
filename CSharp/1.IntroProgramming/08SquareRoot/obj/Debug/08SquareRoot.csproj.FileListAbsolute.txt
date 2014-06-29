@@ -1,0 +1,10 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\08SquareRoot\bin\Debug\08SquareRoot.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\08SquareRoot\bin\Debug\08SquareRoot.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\08SquareRoot\obj\Debug\08SquareRoot.csprojResolveAssemblyReference.cache
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\08SquareRoot\obj\Debug\08SquareRoot.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\08SquareRoot\obj\Debug\08SquareRoot.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\08SquareRoot\obj\Debug\08SquareRoot.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\08SquareRoot\obj\Debug\08SquareRoot.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\08SquareRoot\bin\Debug\08SquareRoot.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\08SquareRoot\bin\Debug\08SquareRoot.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\08SquareRoot\obj\Debug\08SquareRoot.csprojResolveAssemblyReference.cache

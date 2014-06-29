@@ -1,0 +1,5 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.pdb

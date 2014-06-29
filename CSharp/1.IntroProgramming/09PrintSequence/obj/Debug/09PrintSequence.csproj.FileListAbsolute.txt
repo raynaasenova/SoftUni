@@ -1,0 +1,7 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\09PrintSequence\obj\Debug\09PrintSequence.csprojResolveAssemblyReference.cache
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\09PrintSequence\bin\Debug\09PrintSequence.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\09PrintSequence\bin\Debug\09PrintSequence.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\09PrintSequence\obj\Debug\09PrintSequence.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\09PrintSequence\obj\Debug\09PrintSequence.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\09PrintSequence\obj\Debug\09PrintSequence.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\09PrintSequence\obj\Debug\09PrintSequence.pdb

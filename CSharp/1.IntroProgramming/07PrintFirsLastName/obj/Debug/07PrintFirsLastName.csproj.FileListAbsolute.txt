@@ -1,0 +1,6 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\07PrintFirsLastName\bin\Debug\07PrintFirsLastName.exe.config
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\07PrintFirsLastName\bin\Debug\07PrintFirsLastName.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\07PrintFirsLastName\bin\Debug\07PrintFirsLastName.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\07PrintFirsLastName\obj\Debug\07PrintFirsLastName.csprojResolveAssemblyReference.cache
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\07PrintFirsLastName\obj\Debug\07PrintFirsLastName.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. IntroProgramming\07PrintFirsLastName\obj\Debug\07PrintFirsLastName.pdb

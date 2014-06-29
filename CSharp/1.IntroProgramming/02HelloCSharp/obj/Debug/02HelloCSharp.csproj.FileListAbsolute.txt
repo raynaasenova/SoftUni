@@ -1,0 +1,5 @@
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02HelloCSharp\bin\Debug\02HelloCSharp.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02HelloCSharp\bin\Debug\02HelloCSharp.pdb
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02HelloCSharp\obj\Debug\02HelloCSharp.csprojResolveAssemblyReference.cache
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02HelloCSharp\obj\Debug\02HelloCSharp.exe
+C:\0SoftUni\1. Introduction-to-Programming\1. HW-IntroProgramming\02HelloCSharp\obj\Debug\02HelloCSharp.pdb
